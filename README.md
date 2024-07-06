@@ -1,0 +1,1 @@
+Ejercicios de grid, tuve un poco de inconvenientes con el responsive
